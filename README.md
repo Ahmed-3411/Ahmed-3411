@@ -1,7 +1,7 @@
 
 <img alt="Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ahmed</h2>
 
-### 👨🏻‍💻 &nbsp;About Me!
+### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I’m passionate about exploring Artificial Intelligence, Cybersecurity, and Operating Systems development.\
 🌱 &nbsp;Working on **NeuronOS** – an AI-focused operating system built on SerenityOS.\
