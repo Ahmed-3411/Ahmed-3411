@@ -1,4 +1,4 @@
-
+![NYC](Ahmed-3411/blob/main/banner.png)
 <img alt="Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ahmed</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
