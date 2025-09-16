@@ -10,7 +10,8 @@
 👯 &nbsp;Looking to collaborate on **AI Security Tools and Open-Source AI frameworks**.\
 🤝 &nbsp;Open for contributions in **advanced MLOps integration (MLflow, W&B)**.\
 👨‍💻 &nbsp;All of my projects are available at [GitHub/Ahmed-3411](https://github.com/Ahmed-3411).\
-💬 &nbsp;Ask me about **Machine Learning, Cybersecurity, OS Development, and AI-driven tools**.\
+💬 &nbsp;Ask me about Machine Learning, Deep Learning, AI applications, and AI-driven Cybersecurity tools.
+**.\
 📫 &nbsp;Reach me at **ahmed.mmt3411@gmail.com**.\
 ⚡ &nbsp;Fun fact: *I enjoy turning complex tech challenges into creative projects—and I’m always looking for ways to push the limits of AI & OS development 🚀*.
 
