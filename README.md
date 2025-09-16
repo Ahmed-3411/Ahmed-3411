@@ -5,6 +5,8 @@
 
 💡 &nbsp;I’m passionate about exploring Artificial Intelligence.\
 👥 &nbsp;Member of **IEEE Engineering in Medicine and Biology Society (EMBS)** — Technical Committee on Biomedical Imaging and Image Processing (2025 – Present).\
+👥 &nbsp;Member of **IEEE Sensors Council** (2025 – Present).\
+👥 &nbsp;Member of **IEEE Systems Council** (2025 – Present).\
 👯 &nbsp;Looking to collaborate on **AI Security Tools and Open-Source AI frameworks**.\
 🤝 &nbsp;Open for contributions in **advanced MLOps integration (MLflow, W&B)**.\
 👨‍💻 &nbsp;All of my projects are available at [GitHub/Ahmed-3411](https://github.com/Ahmed-3411).\
@@ -14,11 +16,18 @@
 
 ### 🔗 Professional Memberships
 
-[![IEEE EMBS](https://img.shields.io/badge/IEEE-EMBS-blue?logo=ieee&logoColor=white)](https://www.embs.org/biip/)
+[![IEEE](https://img.shields.io/badge/IEEE-Member-00629B?logo=ieee&logoColor=white)](https://www.ieee.org/)  
+Member, IEEE (2025 – Present)  
 
+[![IEEE EMBS](https://img.shields.io/badge/IEEE-EMBS-blue?logo=ieee&logoColor=white)](https://www.embs.org/biip/)  
 Member, IEEE Engineering in Medicine and Biology Society (EMBS)  
-Technical Committee on Biomedical Imaging and Image Processing (2025 – Present)
+Technical Committee on Biomedical Imaging and Image Processing (2025 – Present)  
 
+[![IEEE Sensors](https://img.shields.io/badge/IEEE-Sensors%20Council-green?logo=ieee&logoColor=white)](https://ieee-sensors.org/)  
+Member, IEEE Sensors Council (2025 – Present)  
+
+[![IEEE Systems](https://img.shields.io/badge/IEEE-Systems%20Council-orange?logo=ieee&logoColor=white)](https://ieeesystemscouncil.org/)  
+Member, IEEE Systems Council (2025 – Present)  
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
