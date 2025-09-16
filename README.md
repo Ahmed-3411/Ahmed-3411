@@ -4,13 +4,14 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I’m passionate about exploring Artificial Intelligence, Cybersecurity, and Operating Systems development.\
-🌱 &nbsp;Working on **NeuronOS** – an AI-focused operating system built on SerenityOS.\
+👥 &nbsp;Member of **IEEE Engineering in Medicine and Biology Society (EMBS)** — Technical Committee on Biomedical Imaging and Image Processing (2025 – Present).\
 👯 &nbsp;Looking to collaborate on **AI Security Tools and Open-Source AI frameworks**.\
 🤝 &nbsp;Open for contributions in **advanced MLOps integration (MLflow, W&B)**.\
 👨‍💻 &nbsp;All of my projects are available at [GitHub/Ahmed-3411](https://github.com/Ahmed-3411).\
 💬 &nbsp;Ask me about **Machine Learning, Cybersecurity, OS Development, and AI-driven tools**.\
 📫 &nbsp;Reach me at **ahmed.mmt3411@gmail.com**.\
 ⚡ &nbsp;Fun fact: *I enjoy turning complex tech challenges into creative projects—and I’m always looking for ways to push the limits of AI & OS development 🚀*.
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
