@@ -14,10 +14,7 @@
 📫 &nbsp;Reach me at **ahmed.mmt3411@gmail.com**.\
 ⚡ &nbsp;Fun fact: *I enjoy turning complex tech challenges into creative projects—and I’m always looking for ways to push the limits of AI & OS development 🚀*.
 
-### 🔗 Professional Memberships
-
-[![IEEE](https://img.shields.io/badge/IEEE-Member-00629B?logo=ieee&logoColor=white)](https://www.ieee.org/)  
-Member, IEEE (2025 – Present)  
+### 🔗 Professional Memberships 
 
 [![IEEE EMBS](https://img.shields.io/badge/IEEE-EMBS-blue?logo=ieee&logoColor=white)](https://www.embs.org/biip/)  
 Member, IEEE Engineering in Medicine and Biology Society (EMBS)  
