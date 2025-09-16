@@ -12,6 +12,13 @@
 📫 &nbsp;Reach me at **ahmed.mmt3411@gmail.com**.\
 ⚡ &nbsp;Fun fact: *I enjoy turning complex tech challenges into creative projects—and I’m always looking for ways to push the limits of AI & OS development 🚀*.
 
+### 🔗 Professional Memberships
+
+[![IEEE EMBS](https://img.shields.io/badge/IEEE-EMBS-blue?logo=ieee&logoColor=white)](https://www.embs.org/biip/)
+
+Member, IEEE Engineering in Medicine and Biology Society (EMBS)  
+Technical Committee on Biomedical Imaging and Image Processing (2025 – Present)
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
