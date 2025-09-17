@@ -51,6 +51,9 @@ Member, IEEE Systems Council (2025 – Present)
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=raspberry-pi)&nbsp;
 ![PySerial](https://img.shields.io/badge/-PySerial-05122A?style=flat)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikitlearn)&nbsp;
+![Roboflow](https://img.shields.io/badge/-Roboflow-05122A?style=flat&logo=roboflow)&nbsp;
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
