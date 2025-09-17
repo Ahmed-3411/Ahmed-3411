@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I’m passionate about exploring Artificial Intelligence.\
-👥 &nbsp;Member of **IEEE Engineering in Medicined and Biology Society (EMBS)** — Technical Committee on Biomedical Imaging and Image Processing (2025 – Present).\
+👥 &nbsp;Member of **IEEE Engineering in Medicine and Biology Society (EMBS)** — Technical Committee on Biomedical Imaging and Image Processing (2025 – Present).\
 👥 &nbsp;Member of **IEEE Sensors Council** (2025 – Present).\
 👥 &nbsp;Member of **IEEE Systems Council** (2025 – Present).\
 👯 &nbsp;Looking to collaborate on **AI Security Tools and Open-Source AI frameworks**.\
