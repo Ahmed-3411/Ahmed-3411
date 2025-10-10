@@ -79,4 +79,6 @@ Member, IEEE Systems Council (2025 – Present)
 <a href="https://www.instagram.com/ahmed_e3p/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://discord.gg/iahmed341"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 <a href="mailto:ahmed.mmt3411@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://ieee-collabratec.ieee.org/app/p/AhmedMersal34"><img src="https://img.shields.io/badge/-IEEE%20Collabratec-00629B?style=flat&logo=ieee&logoColor=white"/></a>
 </p>
+
