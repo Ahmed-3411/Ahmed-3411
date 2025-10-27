@@ -1,18 +1,25 @@
 ![NYC](banner.png)
 <img alt="Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ahmed</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me  
 
-💡 &nbsp;I’m passionate about exploring Artificial Intelligence.\
-👥 &nbsp;Member of **IEEE Engineering in Medicine and Biology Society (EMBS)** — Technical Committee on Biomedical Imaging and Image Processing (2025 – Present).\
-👥 &nbsp;Member of **IEEE Sensors Council** (2025 – Present).\
-👥 &nbsp;Member of **IEEE Systems Council** (2025 – Present).\
-👯 &nbsp;Looking to collaborate on **AI Security Tools and Open-Source AI frameworks**.\
-🤝 &nbsp;Open for contributions in **advanced MLOps integration (MLflow, W&B)**.\
-👨‍💻 &nbsp;All of my projects are available at [GitHub/Ahmed-3411](https://github.com/Ahmed-3411).\
-💬 &nbsp;Ask me about Machine Learning, Deep Learning, AI applications, and AI-driven Cybersecurity tools.\
-📫 &nbsp;Reach me at **ahmed.mmt3411@gmail.com**.\
-⚡ &nbsp;Fun fact: *I enjoy turning complex tech challenges into creative projects—and I’m always looking for ways to push the limits of AI & OS development 🚀*.
+💡 &nbsp;I’m an **AI Researcher** passionate about exploring the frontiers of **Machine Learning**, **Intelligent Systems**, and **Data-Driven Innovation**.  
+
+🎓 &nbsp;My research interests lie in the intersection of **Artificial Intelligence**, **Biomedical Signal & Image Analysis**, and **Intelligent Sensing Systems** — aiming to bridge scientific research with practical, real-world impact.  
+
+👥 &nbsp;Active **IEEE Member**, affiliated with:  
+&nbsp;&nbsp;&nbsp;• *Engineering in Medicine and Biology Society (EMBS)*  
+&nbsp;&nbsp;&nbsp;• *IEEE Sensors Council*  
+&nbsp;&nbsp;&nbsp;• *IEEE Systems Council*  
+
+🔍 &nbsp;I’m deeply interested in developing **reliable**, **interpretable**, and **scalable AI models** that enhance scientific understanding and support next-generation intelligent technologies.  
+
+🤝 &nbsp;Open to **research collaborations**, **academic discussions**, and **open-source contributions** within the global AI community.  
+
+📫 &nbsp;Reach me at: **ahmed.mmt3411@gmail.com**  
+🌐 &nbsp;Research profile: [**TechRxiv**](https://www.techrxiv.org/users/985276-ahmed-mersal)  
+⚡ &nbsp;Driven by curiosity — I believe research is the art of transforming complex ideas into meaningful innovation. 🚀  
+
 
 ### 🔗 Professional Memberships 
 
