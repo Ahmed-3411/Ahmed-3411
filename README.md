@@ -5,7 +5,7 @@
 
 💡 &nbsp;I’m an **AI Researcher** passionate about exploring the frontiers of **Machine Learning**, **Intelligent Systems**, and **Data-Driven Innovation**.  
 
-🎓 &nbsp;My research interests lie in the intersection of **Artificial Intelligence**, **Biomedical Signal & Image Analysis**, and **Intelligent Sensing Systems** — aiming to bridge scientific research with practical, real-world impact.  
+🎓 &nbsp;Building human-centered AI for impact, and the governance frameworks for its future.
 
 👥 &nbsp;Active **IEEE Member**, affiliated with:  
 &nbsp;&nbsp;&nbsp;• *Engineering in Medicine and Biology Society (EMBS)*  
