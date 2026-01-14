@@ -5,7 +5,7 @@
 
 💡 &nbsp;I’m an **AI Researcher** passionate about exploring the frontiers of **Machine Learning**, **Intelligent Systems**, and **Data-Driven Innovation**.  
 
-🎓 &nbsp;Building human-centered AI for impact, and the governance frameworks for its future.
+🎓 &nbsp;My research bridges applied AI systems and strategic governance frameworks to ensure advanced intelligence remains beneficial and controllable.
 
 👥 &nbsp;Active **IEEE Member**, affiliated with:  
 &nbsp;&nbsp;&nbsp;• *Engineering in Medicine and Biology Society (EMBS)*  
