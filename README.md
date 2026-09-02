@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me  
 
-💡 &nbsp;I’m an **AI Researcher** passionate about exploring the frontiers of **Machine Learning**, **Intelligent Systems**, and **Data-Driven Innovation**.  
+💡 &nbsp;I’m an **Machine Learning Engineer** **AI Researcher** passionate about exploring the frontiers of **Machine Learning**, **Intelligent Systems**, and **Data-Driven Innovation**.  
 
 🎓 &nbsp;My research bridges applied AI systems and strategic governance frameworks to ensure advanced intelligence remains beneficial and controllable.
 
