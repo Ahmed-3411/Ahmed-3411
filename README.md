@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;• *IEEE Sensors Council*  
 &nbsp;&nbsp;&nbsp;• *IEEE Systems Council*  
 
-🔍 &nbsp;I’m deeply interested in developing **reliable**, **interpretable**, and **scalable AI models** that enhance scientific understanding and support next-generation intelligent technologies.  
+🔍 &nbsp;I’m deeply interested in developing **reliable**, **interpretable**, and **scalable AI models** that enhance scientific understanding.  
 
 🤝 &nbsp;Open to **research collaborations**, **academic discussions**, and **open-source contributions** within the global AI community.  
 
