@@ -35,31 +35,33 @@ Member, IEEE Systems Council (2025 – Present)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Core Engineering Stack
+###  &nbsp;Core Engineering Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+![Pydantic](https://img.shields.io/badge/-Pydantic-05122A?style=flat&logo=pydantic)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
-### 🤖 &nbsp;AI & Agent Systems
+### &nbsp;AI & Agent Systems
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
 ![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat)&nbsp;
 ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-05122A?style=flat)&nbsp;
 ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)&nbsp;
-![Anthropic](https://img.shields.io/badge/-Anthropic-05122A?style=flat)&nbsp;
+![Anthropic](https://img.shields.io/badge/-Anthropic-05122A?style=flat)
 
-### ⚙️ &nbsp;Systems & Reliability
+###  &nbsp;Systems & Reliability
 
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-05122A?style=flat&logo=docker)&nbsp;
 ![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=jsonwebtokens)&nbsp;
