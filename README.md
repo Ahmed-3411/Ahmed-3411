@@ -61,7 +61,7 @@ Member, IEEE Systems Council (2025 – Present)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)&nbsp;
 ![Anthropic](https://img.shields.io/badge/-Anthropic-05122A?style=flat)
 
-### 🧠 &nbsp;Applied AI & ML Tooling
+### &nbsp;Applied AI & ML Tooling
 
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-05122A?style=flat&logo=huggingface)&nbsp;
 ![ONNX](https://img.shields.io/badge/-ONNX-05122A?style=flat&logo=onnx)&nbsp;
