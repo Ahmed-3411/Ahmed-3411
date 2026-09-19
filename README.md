@@ -35,36 +35,38 @@ Member, IEEE Systems Council (2025 – Present)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Core Engineering Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
-![SQL Server](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
-![ONNX](https://img.shields.io/badge/-ONNX-05122A?style=flat&logo=onnx)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-05122A?style=flat)&nbsp;
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-05122A?style=flat)&nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
-![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat)&nbsp;
-![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
-![Barracuda](https://img.shields.io/badge/-UnityBarracuda-05122A?style=flat)&nbsp;
-![Oculus](https://img.shields.io/badge/-Oculus-05122A?style=flat)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=raspberry-pi)&nbsp;
-![PySerial](https://img.shields.io/badge/-PySerial-05122A?style=flat)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikitlearn)&nbsp;
-![Roboflow](https://img.shields.io/badge/-Roboflow-05122A?style=flat&logo=roboflow)&nbsp;
-![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+### 🤖 &nbsp;AI & Agent Systems
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
+![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat)&nbsp;
+![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-05122A?style=flat)&nbsp;
+![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)&nbsp;
+![Anthropic](https://img.shields.io/badge/-Anthropic-05122A?style=flat)&nbsp;
+
+### ⚙️ &nbsp;Systems & Reliability
+
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-05122A?style=flat&logo=docker)&nbsp;
+![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=jsonwebtokens)&nbsp;
+![OAuth](https://img.shields.io/badge/-OAuth%202.0-05122A?style=flat)&nbsp;
+![SSE](https://img.shields.io/badge/-Server--Sent%20Events-05122A?style=flat)&nbsp;
+![pytest](https://img.shields.io/badge/-pytest-05122A?style=flat&logo=pytest)&nbsp;
+![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
