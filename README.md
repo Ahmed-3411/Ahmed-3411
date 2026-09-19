@@ -61,6 +61,15 @@ Member, IEEE Systems Council (2025 – Present)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)&nbsp;
 ![Anthropic](https://img.shields.io/badge/-Anthropic-05122A?style=flat)
 
+### 🧠 &nbsp;Applied AI & ML Tooling
+
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-05122A?style=flat&logo=huggingface)&nbsp;
+![ONNX](https://img.shields.io/badge/-ONNX-05122A?style=flat&logo=onnx)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikitlearn)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+
 ###  &nbsp;Systems & Reliability
 
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-05122A?style=flat&logo=docker)&nbsp;
