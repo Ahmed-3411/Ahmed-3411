@@ -13,7 +13,7 @@
 🤝 &nbsp;Open to **research collaborations**, **academic discussions**, and **open-source contributions** within the global AI community.  
 
 📫 &nbsp;Reach me at: **ahmed.mmt3411@gmail.com**  
-🌐 &nbsp;Research profile: [**TechRxiv**](https://www.techrxiv.org/users/985276-ahmed-mersal)  
+
 ⚡ &nbsp;Driven by curiosity — I believe research is the art of transforming complex ideas into meaningful innovation. 🚀  
 
 
