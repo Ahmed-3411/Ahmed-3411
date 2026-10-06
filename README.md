@@ -7,10 +7,6 @@
 
 🎓 &nbsp;My research bridges applied AI systems and strategic governance frameworks to ensure advanced intelligence remains beneficial and controllable.
 
-👥 &nbsp;Active **IEEE Member**, affiliated with:  
-&nbsp;&nbsp;&nbsp;• *Engineering in Medicine and Biology Society (EMBS)*  
-&nbsp;&nbsp;&nbsp;• *IEEE Sensors Council*  
-&nbsp;&nbsp;&nbsp;• *IEEE Systems Council*  
 
 🔍 &nbsp;I’m deeply interested in developing **reliable**, **interpretable**, and **scalable AI models** that enhance scientific understanding.  
 
